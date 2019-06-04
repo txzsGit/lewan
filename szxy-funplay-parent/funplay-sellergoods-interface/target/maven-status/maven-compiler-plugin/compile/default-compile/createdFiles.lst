@@ -1,0 +1,6 @@
+com\funplay\sellergoods\service\BrandService.class
+com\funplay\sellergoods\service\GoodsService.class
+com\funplay\sellergoods\service\TypeTemplateService.class
+com\funplay\sellergoods\service\SpecificationService.class
+com\funplay\sellergoods\service\ItemCatService.class
+com\funplay\sellergoods\service\SellerService.class

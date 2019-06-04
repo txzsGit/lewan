@@ -1,0 +1,11 @@
+com\funplay\manager\controller\ItemCatController.class
+com\funplay\manager\controller\SpecificationController.class
+com\funplay\manager\controller\LoginController.class
+com\funplay\manager\controller\SellerController.class
+com\funplay\manager\controller\BrandController.class
+com\funplay\manager\controller\TypeTemplateController.class
+com\funplay\manager\controller\UploadController.class
+com\funplay\manager\controller\GoodsController.class
+com\funplay\manager\controller\ContentCategoryController.class
+com\funplay\manager\controller\ContentController.class
+com\funplay\manager\controller\GoodsController$1.class

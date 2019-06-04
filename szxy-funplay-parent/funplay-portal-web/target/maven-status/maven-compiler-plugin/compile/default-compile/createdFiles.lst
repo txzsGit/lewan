@@ -1,0 +1,4 @@
+com\funplay\portal\controller\LoginController.class
+com\funplay\portal\controller\ItemCatController.class
+com\funplay\portal\service\UserDetailServiceImpl.class
+com\funplay\portal\controller\ContentController.class

@@ -1,0 +1,6 @@
+127.0.0.1 - - [19/May/2019:14:29:35 +0800] "GET /login.html?logout HTTP/1.1" 200 3094 http-bio-9101-exec-1 53
+127.0.0.1 - - [19/May/2019:14:29:35 +0800] "GET /img/wx_cz.jpg HTTP/1.1" 304 - http-bio-9101-exec-3 5
+127.0.0.1 - - [19/May/2019:14:29:35 +0800] "GET /css/pages-login-manage.css HTTP/1.1" 304 - http-bio-9101-exec-2 5
+127.0.0.1 - - [19/May/2019:14:29:35 +0800] "GET /img/icons.png HTTP/1.1" 404 977 http-bio-9101-exec-5 2
+127.0.0.1 - - [19/May/2019:14:29:35 +0800] "GET /favicon.ico HTTP/1.1" 302 - http-bio-9101-exec-6 17
+127.0.0.1 - - [19/May/2019:14:29:35 +0800] "GET /login.html HTTP/1.1" 304 - http-bio-9101-exec-7 1

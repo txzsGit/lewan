@@ -1,0 +1,1 @@
+var app=angular.module('funplay',['pagination']);//定义乐玩模块，带分页

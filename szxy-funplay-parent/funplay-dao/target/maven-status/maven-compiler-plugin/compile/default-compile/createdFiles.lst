@@ -1,0 +1,16 @@
+com\funplay\mapper\ItemCatMapper.class
+com\funplay\mapper\UserMapper.class
+com\funplay\mapper\GoodsMapper.class
+com\funplay\mapper\OrderItemMapper.class
+com\funplay\mapper\AddressMapper.class
+com\funplay\mapper\TypeTemplateMapper.class
+com\funplay\mapper\SpecificationOptionMapper.class
+com\funplay\mapper\ContentCategoryMapper.class
+com\funplay\mapper\SpecificationMapper.class
+com\funplay\mapper\ContentMapper.class
+com\funplay\mapper\BrandMapper.class
+com\funplay\mapper\ItemMapper.class
+com\funplay\mapper\OrderMapper.class
+com\funplay\mapper\GoodsDescMapper.class
+com\funplay\mapper\SellerMapper.class
+com\funplay\mapper\PayLogMapper.class
